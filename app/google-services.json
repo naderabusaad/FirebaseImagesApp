@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "304826109406",
+    "firebase_url": "https://fir-imagesapp-e4b47.firebaseio.com",
+    "project_id": "fir-imagesapp-e4b47",
+    "storage_bucket": "fir-imagesapp-e4b47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304826109406:android:bf8af0b1350059da9e614f",
+        "android_client_info": {
+          "package_name": "com.example.firebaseimagesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304826109406-oga49g6b23mtmd4nd5i9h7kgusq2l385.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFUzoh3oIYabvg76wwI294kl8EKvsf1xo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "304826109406-oga49g6b23mtmd4nd5i9h7kgusq2l385.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
